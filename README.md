@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-### Deployed na Vercel
+### Deployed at Vercel
 - [Live Demo](https://first-react-app-wine-phi.vercel.app/)
 
 
